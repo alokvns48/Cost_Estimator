@@ -308,4 +308,14 @@ h1{
         justify-content: space-around;
     }
 
+    .tabs{
+        width: 80%;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+    .tabs p{
+        padding: 8px 4px;
+    }
 }
